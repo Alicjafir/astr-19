@@ -15,7 +15,7 @@ def main():
 
 #When we run the program
 #this executes first
-if__name__=="__main__":
+if __name__=="__main__":
 	main()
 	
 
